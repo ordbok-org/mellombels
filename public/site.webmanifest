@@ -1,6 +1,6 @@
 {
-    "name": "ORDBOK",
-    "short_name": "ORDBOK",
+    "name": "ORDBOK.org",
+    "short_name": "ORDBOK.org",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#ffd600",
+    "background_color": "#ffd600",
     "display": "standalone"
 }
